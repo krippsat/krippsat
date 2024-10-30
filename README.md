@@ -9,6 +9,8 @@
 &nbsp;
 <img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
 &nbsp;
+<img src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="Ton logo" title="Ton" height="35" />
+&nbsp;
 <br />
 
 ## 🛠  Technologies and tools
