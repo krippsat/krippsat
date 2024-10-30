@@ -1,7 +1,5 @@
 
 
-✨ <a href="https://github.com/microgift/web3-developer-solana-evm-etc"> Web3 Projects Overview </a> ✨
-
 ## 💰 Chain based
 <span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
 &nbsp;
