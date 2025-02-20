@@ -1,16 +1,4 @@
 
-
-## 💰 Chain based
-<span><img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
-&nbsp;
-<img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
-&nbsp;
-<img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
-&nbsp;
-<img src="https://cryptologos.cc/logos/toncoin-ton-logo.png" alt="Ton logo" title="Ton" height="35" />
-&nbsp;
-<br />
-
 ## 🛠  Technologies and tools
 <span><img src="https://img.shields.io/badge/Solidity-282C34?logo=Solidity&logoColor=ddd" alt="Solidity logo" title="Solidity" height="20" />
 &nbsp;
